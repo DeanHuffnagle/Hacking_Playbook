@@ -12,4 +12,4 @@ For this reason, to start off any shell session we will want to set these enviro
 
 All the commands in this playbook will assume these variables are set.
 
-**Note:** *Every new shell session you will need to re-set these variables as they do not persist to other sessions.*
+**Note:** *Every new shell session you will need to re-set these variables as they do not persist to other sessions
