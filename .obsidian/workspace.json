@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction/Welcome.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "README"
             }
           }
         ]
@@ -179,8 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d91e73b9d781d8eb",
+  "active": "6bbf9b76b6a75978",
   "lastOpenFiles": [
+    "Introduction/Welcome.md",
+    "README.md",
     "Stage/Information Gathering",
     "Stage",
     "Introduction",
@@ -190,7 +192,6 @@
     "Services/SSH",
     "Services/FTP",
     "Services/HTTP",
-    "Services",
-    "Introduction/Welcome.md"
+    "Services"
   ]
 }
