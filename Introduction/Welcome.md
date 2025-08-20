@@ -1,0 +1,1 @@
+This Document will serve as a playbook of sorts. a quick reference to situational and useful commands.
