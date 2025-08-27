@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Metasploit/Commands.md",
+                "file": "Services/3389. RDP/xfreerdp3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commands"
+              "title": "xfreerdp3"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,7 +182,9 @@
   },
   "active": "6bbf9b76b6a75978",
   "lastOpenFiles": [
+    "Services/3389. RDP",
     "Stage/Information Gathering/Information Gathering.md",
+    "Services/3389. RDP/xfreerdp3.md",
     "Tools/Metasploit/Commands.md",
     "Services/443. HTTPS",
     "Services/445. SMB",
